@@ -19,7 +19,7 @@ In the `Docs` folder, you'll find:
 In the `Firmware&deviceFiles` folder, you'll find:
 - **burn_flash files**: Referenced in our documentation on how to flash the firmware.
 - **plutosdr-fw-v0.37-dirty**: Typically linked by sellers but was ineffective for me.
-- **Working firmware**: This is the firmware that successfully worked.
+- **Working firmware**: This is the firmware that successfully worked(with the base clock).
 - **Mystery-fw**: This firmware came pre-installed with my device and remains a mystery. I does allow DHCP to work. Note: The files from the only readable partitions I could access are mostly here; however, the files alone will not boot the device.
                    It is to large for Github (about 30 GB) ask me for the torent or download and I will get you a forensic image
 
