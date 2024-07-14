@@ -1,0 +1,1 @@
+img : {[bootloader] /mnt/tools/libre/libresdr-fw/plutosdr-fw_0.38_libre/build_sdimg/fsbl.elf  /mnt/tools/libre/libresdr-fw/plutosdr-fw_0.38_libre/build_sdimg/system_top.bit  /mnt/tools/libre/libresdr-fw/plutosdr-fw_0.38_libre/build_sdimg/u-boot.elf}
