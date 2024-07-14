@@ -31,7 +31,6 @@ In the `Tools` folder, you'll find:
 - **Digilent**: Additional tools related to the Digilent platforms.
 
 
-
 ### Contributing
 
 Your contributions are highly appreciated! If you have:
