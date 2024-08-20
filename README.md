@@ -43,6 +43,7 @@ Please feel free to fork this repository, make your changes, and submit a pull r
 ### Additional Resources
 
 - **Forensic Image**: I have a 30 GB forensic image of the SD card that works with the mystery two partitions that I canot access. I can create a torrent link if there is interest. Please open an issue to request this.
+- https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Aacc955672ab8ab4e04894fd7643f8764812f17e3%26dn%3DBoot.bin%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce
 
 ## Issues
 
